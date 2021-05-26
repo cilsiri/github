@@ -1,5 +1,8 @@
 public with sharing class githubproject {
-    public githubproject() {
+    public github() {
+
+    }
+    public static void (){
 
     }
 }
